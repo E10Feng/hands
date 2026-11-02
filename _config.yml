@@ -1,0 +1,6 @@
+# Published to https://e10feng.github.io/hands/ by scripts/publish-site.sh.
+title: Hands
+description: A memory card game for 2–5 players in iMessage.
+baseurl: /hands
+url: https://e10feng.github.io
+markdown: kramdown
